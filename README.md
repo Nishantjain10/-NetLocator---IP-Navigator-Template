@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript and Create this app in React.**
 
 ## The challenge
 
